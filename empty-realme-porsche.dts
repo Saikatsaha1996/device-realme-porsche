@@ -1,4 +1,5 @@
 /dts-v1/;
+/plugin/;
 
 / {
         model = "Realme GT 2, Qualcomm Technologies, Inc. sm8350 SoC";
