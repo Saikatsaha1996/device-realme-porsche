@@ -4,7 +4,5 @@
 / {
         model = "Realme GT 2, Qualcomm Technologies, Inc. sm8350 SoC";
         compatible = "realme,porsche", "qcom,sm8350";
-        qcom,msm-id = <415 0x20001>, <456 0x20001>, <501 0x20001>;
-        qcom,board-id = <0 0>;
 
 };
